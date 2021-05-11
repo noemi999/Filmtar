@@ -1,0 +1,5 @@
+Documentary;try;2020;100;yeeeaahhh ;
+Family;fam;2021;200;12;
+Family;Shrek;2008;120;8;
+Documentary;Social Dilemma;2020;120;film about the dangeour of the ;
+Action;Batman;2008;120;
